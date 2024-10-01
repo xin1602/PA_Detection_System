@@ -1,0 +1,5 @@
+filename,predicted_class,probability
+006_1.png,無病徵,73.85%
+006_2.png,根尖病灶合併牙周流失,95.29%
+006_3.png,無病徵,84.0%
+006_4.png,根尖病灶,87.31%

@@ -1,0 +1,3 @@
+{'filename': '010_1.png', 'predicted_class': '根尖病灶合併牙周流失', 'probability': '100.0%'}
+{'filename': '010_2.png', 'predicted_class': '無病徵', 'probability': '99.31%'}
+{'filename': '010_3.png', 'predicted_class': '無病徵', 'probability': '99.83%'}
